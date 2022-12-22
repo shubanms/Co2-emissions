@@ -22,6 +22,6 @@ on different factors and industries.
 
 ### Plots and outputs
 
-<p align="center"> <img alt="clock" src="Pictures/Rplot.jpeg" width=20% height=20%> </p>
+<p align="center"> <img alt="clock" src="Pictures/Rplot.jpeg" width=75% height=75%> </p>
 
 
