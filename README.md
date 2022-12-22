@@ -1,8 +1,10 @@
 
-# CO₂ prediction using statistics and a data set from Kaggle
+# CO₂ emissions prediction using a data set from Kaggle
 
 This project helps us to predict future CO₂ emissions of different countries based
 on different factors and industries.
+
+We use linear regression and other statistical tools to view and analyse data.
 
 ### Libraries used in this project
 
